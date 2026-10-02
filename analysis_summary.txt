@@ -1,0 +1,79 @@
+PRODUCT INSIGHTS REPORT
+=======================
+
+Total Products: 112
+Average Price: 111.04
+Highest Price: 200.00
+Lowest Price: 25.00
+
+Products by Category:
+Category
+Mouse, Pokemon          6
+Pokemon, Seed           3
+Drill, Pokemon          3
+Pokemon, Tadpole        3
+Pokemon, Psi            3
+Pokemon, Superpower     3
+Flame, Pokemon          2
+Cocoon, Pokemon         2
+Pokemon, Tiny Bird      2
+Bird, Pokemon           2
+Poison Pin, Pokemon     2
+Fairy, Pokemon          2
+Fox, Pokemon            2
+Balloon, Pokemon        2
+Bat, Pokemon            2
+Pokemon, Weed           2
+Flower, Pokemon         2
+Mushroom, Pokemon       2
+Mole, Pokemon           2
+Duck, Pokemon           2
+Pig Monkey, Pokemon     2
+Flycatcher, Pokemon     2
+Jellyfish, Pokemon      2
+Pokemon, Rock           2
+Fire Horse, Pokemon     2
+Magnet, Pokemon         2
+Pokemon, Sea Lion       2
+Pokemon, Sludge         2
+Bivalve, Pokemon        2
+Gas, Pokemon            2
+Hypnosis, Pokemon       2
+Ball, Pokemon           2
+Egg, Pokemon            2
+Poison Gas, Pokemon     2
+Lizard, Pokemon         1
+Pokemon, Tiny Turtle    1
+Pokemon, Turtle         1
+Pokemon, Shellfish      1
+Pokemon, Worm           1
+Butterfly, Pokemon      1
+Hairy Bug, Pokemon      1
+Poison Bee, Pokemon     1
+Beak, Pokemon           1
+Pokemon, Snake          1
+Cobra, Pokemon          1
+Insect, Pokemon         1
+Poison Moth, Pokemon    1
+Pokemon, Scratch Cat    1
+Classy Cat, Pokemon     1
+Pokemon, Puppy          1
+Legendary, Pokemon      1
+Megaton, Pokemon        1
+Dopey, Pokemon          1
+Hermit Crab, Pokemon    1
+Pokemon, Wild Duck      1
+Pokemon, Twin Bird      1
+Pokemon, Triple Bird    1
+Pokemon, Shadow         1
+Pokemon, Rock Snake     1
+Pokemon, River Crab     1
+Pincer, Pokemon         1
+Coconut, Pokemon        1
+Lonely, Pokemon         1
+Bone Keeper, Pokemon    1
+Kicking, Pokemon        1
+Pokemon, Punching       1
+Licking, Pokemon        1
+Pokemon, Spikes         1
+Pokemon, Vine           1
